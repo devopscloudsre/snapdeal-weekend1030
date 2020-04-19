@@ -1,1 +1,1 @@
-print "hello world. Snapdeal Sale is ON!!"
+print "Snapdeal Sale is ON!!"
